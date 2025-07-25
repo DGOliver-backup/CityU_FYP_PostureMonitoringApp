@@ -5,9 +5,10 @@ This Android application leverages real-time pose estimation to monitor and prov
 
 ## Features
 - **Real-Time Pose Estimation**: Uses the BlazePose Full model to detect and track human joints from video frames captured by the phone's front camera.
-- **Posture Feedback**: Provides real-time feedback on posture correctness by analyzing joint coordinates and computing joint angles.
+- **Posture Feedback**: Provides real-time feedback on posture correctness and repetition counting by analyzing joint coordinates and computing joint angles.
 - **Lightweight and Optimized**: Designed for mobile devices, ensuring efficient performance with minimal computational overhead.
 - **User-Friendly Interface**: Simple and intuitive interface for users to monitor their posture during weight training sessions.
+- **Exercise Coverage**: Supports 9 weight training exercises.
 
 ## Project Structure
 - **app/src/main/java**: Contains the core Java/Kotlin code for the Android app, including camera integration, pose estimation, and posture classification logic.
@@ -80,6 +81,8 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- TensorFlow Lite for providing the BlazePose model.
+- TensorFlow Lite for providing the MoveNet model.
+- Google ML Kit for providing the BlazePose models.
+- Ultray for providing the YYOLO11n-pose model.
 - Android Studio for the development environment.
 - Research papers and open-source communities for insights on pose estimation and posture classification.
