@@ -63,19 +63,11 @@ This Android application leverages real-time pose estimation to monitor and prov
   - Metrics: Classification accuracy, scalability.
   - Results: Trigonometric joint angle approach achieved satisfactory accuracy with lower computational overhead compared to ML-based methods.
 
-## Future Work
+## Potential Future Work
 - **Exercise Library Expansion**: Add support for a wider range of weight training exercises.
 - **Enhanced Feedback**: Incorporate visual and auditory cues for more intuitive posture correction.
 - **Cross-Platform Support**: Extend the app to iOS using compatible pose estimation frameworks.
 - **Model Optimization**: Further optimize the BlazePose model for lower-end devices.
-
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
