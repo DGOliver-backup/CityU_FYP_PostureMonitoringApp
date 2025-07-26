@@ -80,8 +80,14 @@ This section showcases a few example exercises as a demo. For the full list of 9
 - **Cross-Platform Support**: Extend the app to iOS using compatible pose estimation frameworks.
 - **Model Optimization**: Further optimize the BlazePose model for lower-end devices.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Third-Party Licenses
+
+### Google ML Kit
+Portions of this project use code samples from Google ML Kit, which are licensed under the Apache 2.0 License. See the full license at: https://www.apache.org/licenses/LICENSE-2.0
+
+Documentation from Google ML Kit is licensed under the Creative Commons Attribution 4.0 License. See the full license at: https://creativecommons.org/licenses/by/4.0/
+
+The ML Kit APIs are subject to the Google APIs Terms of Service[](https://developers.google.com/terms) and, for GenAI APIs, the ML Kit GenAI API Additional Terms of Service[](https://developers.google.com/ml-kit/terms/genai).
 
 ## Acknowledgments
 - TensorFlow Lite for providing the MoveNet model.
