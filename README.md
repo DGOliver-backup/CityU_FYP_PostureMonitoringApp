@@ -51,7 +51,7 @@ https://youtu.be/85GzO6_0YBg?si=pBjMOE9sKEd2fHcg
 
 ## Evaluation
 - **Pose Estimation**:
-  - Metrics: Computational intensiveness (FLOPS), joint prediction accuracy (PCKh).
+  - Metrics: Computational intensiveness (FPS), joint prediction accuracy (MSE).
   - Results: BlazePose Full outperformed MoveNet and YOLO11n-pose in both metrics.
 - **Posture Classification**:
   - Metrics: Classification accuracy, scalability.
