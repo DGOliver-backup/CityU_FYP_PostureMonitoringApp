@@ -61,12 +61,12 @@ This section showcases a few example exercises as a demo. For the full list of 9
 - **Chosen Model**: BlazePose Full, selected for its superior balance of accuracy and performance on mobile devices.
 - **Implementation**: Integrates TensorFlow Lite for running the BlazePose model on Android, extracting joint coordinates from camera frames.
 
-### Stage 2: Posture Classification
+### Stage 2: Posture Classification (see project report for more details)
 - **Methodology**: Uses trigonometrically computed joint angles for posture analysis.
 - **Algorithm Selection**: Compared KNN, Random Forest, and Logistic Regression; trigonometric angle computation was chosen for its accuracy and scalability.
 - **Feedback Mechanism**: Real-time posture correctness is determined by comparing computed angles against predefined thresholds for each exercise.
 
-## Evaluation
+## Evaluation (see project report for more details)
 - **Pose Estimation**:
   - Metrics: Computational intensiveness (FPS), joint prediction accuracy (MSE).
   - Results: BlazePose Full outperformed MoveNet and YOLO11n-pose in both metrics.
@@ -80,14 +80,9 @@ This section showcases a few example exercises as a demo. For the full list of 9
 - **Cross-Platform Support**: Extend the app to iOS using compatible pose estimation frameworks.
 - **Model Optimization**: Further optimize the BlazePose model for lower-end devices.
 
-## Third-Party Licenses
+## Third-Party Libraries
 
-### Google ML Kit
-Portions of this project use code samples from Google ML Kit, which are licensed under the Apache 2.0 License. See the full license at: https://www.apache.org/licenses/LICENSE-2.0
-
-Documentation from Google ML Kit is licensed under the Creative Commons Attribution 4.0 License. See the full license at: https://creativecommons.org/licenses/by/4.0/
-
-The ML Kit APIs are subject to the Google APIs Terms of Service[](https://developers.google.com/terms) and, for GenAI APIs, the ML Kit GenAI API Additional Terms of Service[](https://developers.google.com/ml-kit/terms/genai).
+This project uses **Google ML Kit** for on-device machine learning features. Google ML Kit is subject to the [Google APIs Terms of Service](https://developers.google.com/terms). The ML Kit GenAI API, if used, is subject to the [ML Kit GenAI API Additional Terms of Service](https://developers.google.com/ml-kit/terms/genai). Documentation is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## Acknowledgments
 - TensorFlow Lite for providing the MoveNet model.
