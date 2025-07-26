@@ -13,17 +13,17 @@ This Android application leverages real-time pose estimation to monitor and prov
 ## DEMO Video
 https://youtu.be/85GzO6_0YBg?si=pBjMOE9sKEd2fHcg
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap; width: 100%;">
-  <div style="text-align: center; flex: 1; margin: 0 10px;">
-    <img src="image/straight_arm_pulldown.jpg" alt="Straight Arm Pulldown" style="width: 150px; height: auto;"/>
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="image/straight_arm_pulldown.jpg" alt="Straight Arm Pulldown" style="width: 200px; height: auto;"/>
     <p>Straight Arm Pulldown</p>
   </div>
-  <div style="text-align: center; flex: 1; margin: 0 10px;">
-    <img src="image/high_cable_curls.jpg" alt="High Cable Curls" style="width: 150px; height: auto;"/>
+  <div style="text-align: center;">
+    <img src="image/high_cable_curls.jpg" alt="High Cable Curls" style="width: 200px; height: auto;"/>
     <p>High Cable Curls</p>
   </div>
-  <div style="text-align: center; flex: 1; margin: 0 10px;">
-    <img src="image/barbell_row.jpg" alt="Barbell Row" style="width: 150px; height: auto;"/>
+  <div style="text-align: center;">
+    <img src="image/barbell_row.jpg" alt="Barbell Row" style="width: 200px; height: auto;"/>
     <p>Barbell Row</p>
   </div>
 </div>
