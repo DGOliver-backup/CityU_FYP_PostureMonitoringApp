@@ -13,6 +13,7 @@ This Android application leverages real-time pose estimation to monitor and prov
 ## DEMO Video
 https://youtu.be/85GzO6_0YBg?si=pBjMOE9sKEd2fHcg
 
+## DEMO Images
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center;">
     <img src="image/straight_arm_pulldown.jpg" alt="Straight Arm Pulldown" style="width: 600px; height: auto;"/>
