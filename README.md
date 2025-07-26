@@ -20,7 +20,7 @@ This Android application leverages real-time pose estimation to monitor and prov
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/posture-monitoring-app.git
+   git clone https://github.com/DGOliver-backup/CityU_FYP_PostureMonitoringApp.git
    ```
 2. **Open in Android Studio**:
    - Launch Android Studio and select `Open an existing project`.
