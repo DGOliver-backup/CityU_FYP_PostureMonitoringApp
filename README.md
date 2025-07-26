@@ -14,7 +14,11 @@ This Android application leverages real-time pose estimation to monitor and prov
 https://youtu.be/85GzO6_0YBg?si=pBjMOE9sKEd2fHcg
 
 ## DEMO Images
-![Straight Arm Pulldown](images/straight_arm_pulldown.png)
+![Straight Arm Pulldown](image/straight_arm_pulldown.jpg)
+
+![High Cable Curls](image/high_cable_curls.jpg)
+
+![Barbell Row](image/barbell_row.jpg)
 
 ## Project Structure
 - **app/src/main/java**: Contains the core Java/Kotlin code for the Android app, including camera integration, pose estimation, and posture classification logic.
