@@ -18,15 +18,15 @@ https://youtu.be/85GzO6_0YBg?si=pBjMOE9sKEd2fHcg
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap; width: 100%; gap: 20px;">
   <div style="text-align: center; flex: 1; margin: 0 50px;">
     <p style="font-weight: bold;">Straight Arm Pulldown</p>
-    <img src="image/straight_arm_pulldown.jpg" alt="Straight Arm Pulldown" style="width: 500px; height: auto;"/>
+    <img src="image/straight_arm_pulldown.jpg" alt="Straight Arm Pulldown" style="width: auto; height: 700px;"/>
   </div>
   <div style="text-align: center; flex: 1; margin: 0 50px;">
     <p style="font-weight: bold;">High Cable Curls</p>
-    <img src="image/high_cable_curls.jpg" alt="High Cable Curls" style="width: 500px; height: auto;"/>
+    <img src="image/high_cable_curls.jpg" alt="High Cable Curls" style="width: auto; height: 700px;"/>
   </div>
   <div style="text-align: center; flex: 1; margin: 0 50px;">
     <p style="font-weight: bold;">Barbell Row</p>
-    <img src="image/barbell_row.jpg" alt="Barbell Row" style="width: 500px; height: auto;"/>
+    <img src="image/barbell_row.jpg" alt="Barbell Row" style="width: auto; height: 700px;"/>
   </div>
 </div>
 
