@@ -8,10 +8,13 @@ This Android application leverages real-time pose estimation to monitor and prov
 - **Posture Feedback**: Provides real-time feedback on posture correctness and repetition counting by analyzing joint coordinates and computing joint angles.
 - **Lightweight and Optimized**: Designed for mobile devices, ensuring efficient performance with minimal computational overhead.
 - **User-Friendly Interface**: Simple and intuitive interface for users to monitor their posture during weight training sessions.
-- **Exercise Coverage**: Supports 9 weight training exercises.
+- **Exercise Coverage**: Supports 9 weight training exercises (Straight Arm Pulldown, High Cable Curls, Cable Triceps Pulldown, Front Squat, Barbell Row, Incline Chest Press, Dumbbell Shoulder Press, Sit-up, Push-up).
 
 ## DEMO Video
 https://youtu.be/85GzO6_0YBg?si=pBjMOE9sKEd2fHcg
+
+## DEMO Images
+![Straight Arm Pulldown](images/straight_arm_pulldown.png)
 
 ## Project Structure
 - **app/src/main/java**: Contains the core Java/Kotlin code for the Android app, including camera integration, pose estimation, and posture classification logic.
