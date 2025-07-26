@@ -10,12 +10,14 @@ This Android application leverages real-time pose estimation to monitor and prov
 - **User-Friendly Interface**: Simple and intuitive interface for users to monitor their posture during weight training sessions.
 - **Exercise Coverage**: Supports 9 weight training exercises.
 
+## DEMO Video
+https://youtu.be/85GzO6_0YBg?si=pBjMOE9sKEd2fHcg
+
 ## Project Structure
 - **app/src/main/java**: Contains the core Java/Kotlin code for the Android app, including camera integration, pose estimation, and posture classification logic.
 - **app/src/main/res**: Includes resources such as layouts, drawables, and the TensorFlow Lite model file for BlazePose.
-- **app/src/main/assets**: Stores the pre-trained BlazePose Full model for pose estimation.
-- **scripts/**: Utility scripts for model evaluation and data preprocessing.
-- **docs/**: Documentation, including model evaluation results and project reports.
+- **app/src/main/assets**: Stores the informative contents related to different weight training workouts.
+- **FinalReport_DeepLearningBasedPostureMonitoringApp.pdf**: Documentation, including model evaluation results and project reports.
 
 ## Installation
 1. **Clone the Repository**:
@@ -25,15 +27,7 @@ This Android application leverages real-time pose estimation to monitor and prov
 2. **Open in Android Studio**:
    - Launch Android Studio and select `Open an existing project`.
    - Navigate to the cloned repository folder and select it.
-3. **Dependencies**:
-   - Ensure you have the latest version of Android Studio and the Android SDK installed.
-   - Add the TensorFlow Lite dependency in `build.gradle`:
-     ```gradle
-     implementation 'org.tensorflow:tensorflow-lite:2.9.0'
-     ```
-4. **Sync and Build**:
-   - Sync the project with Gradle and build the app.
-5. **Run**:
+3. **Run**:
    - Connect an Android device or use an emulator.
    - Run the app from Android Studio.
 
