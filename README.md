@@ -82,7 +82,7 @@ This section showcases a few example exercises as a demo. For the full list of 9
 
 ## Third-Party Libraries
 
-This project uses **Google ML Kit** for on-device machine learning features. Google ML Kit is subject to the [Google APIs Terms of Service](https://developers.google.com/terms). The ML Kit GenAI API, if used, is subject to the [ML Kit GenAI API Additional Terms of Service](https://developers.google.com/ml-kit/terms/genai). Documentation is licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+This project uses **Google ML Kit** for on-device machine learning features. The ML Kit APIs are subject to the [Google APIs Terms of Service](https://developers.google.com/terms). If GenAI APIs are used, they are also subject to the [ML Kit GenAI API Additional Terms of Service](https://developers.google.com/ml-kit/terms/genai).
 
 ## Acknowledgments
 - TensorFlow Lite for providing the MoveNet model.
